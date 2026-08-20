@@ -133,7 +133,7 @@ nav .wrap { display: flex; align-items: center; justify-content: space-between; 
 
 .photo-frame {
   position: relative;
-  aspect-ratio: 4/5;
+  aspect-ratio: 5/4;
   border: 2.5px solid var(--brass);
   background: linear-gradient(160deg, #2C3D46, #1B262C);
   display: flex;
